@@ -4,7 +4,7 @@
 
 ## I'm a Full-stack Web Developer and Javascript Enthusiast!
 - 🔭 I build projects in free time.
-- 🌱 I’m currently learning ReactJs
+- 🌱 Always learning.
 - 👯 I’m looking to collaborate with anyone on any web dev projects.
 - 💬 Ask me anything about web development.
 - 📫 How to reach me harshitsingh45@gmail.com
